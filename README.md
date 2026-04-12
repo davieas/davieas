@@ -15,13 +15,13 @@ Atualmente cursando o 4º período no **CEFET-MG**, com formação técnica pré
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davi-eng-hardwareO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-eng-hardware&layout=compact&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davieaseO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davieas&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/davi-alexandre-silva-santana)
 * **Email:** davi@cefetmg.br
 
 ---
