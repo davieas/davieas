@@ -10,7 +10,7 @@ Atualmente cursando o 4º período no **CEFET-MG**, com formação técnica pré
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | C/C++, Python |
-| **Hardware/PCB** | KiCad, EasyEDA, Autodesk Fusion 360 |
+| **Hardware/PCB** | KiCad, EasyEDA, Altium Designer, Autodesk Fusion 360 |
 | **Embarcados** | ESP32, Arduino, Protocolos de Comunicação (I2C, SPI, BLE) |
 
 ---
