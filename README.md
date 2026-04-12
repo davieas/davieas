@@ -21,7 +21,7 @@ Atualmente cursando o 4º período no **CEFET-MG**, com formação técnica pré
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/davi-alexandre-silva-santana)
+* **LinkedIn:** [linkedin.com/in/davil](https://linkedin.com/in/davi-alexandre-silva-santana)
 * **Email:** davi@cefetmg.br
 
 ---
