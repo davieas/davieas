@@ -31,8 +31,6 @@ Atualmente focado no desenvolvimento de hardwares autônomos e sistemas de malha
 
 ## 🚀 Projetos em Destaque
 
-* 🏭 **[Extrusora PET IoT](link-para-o-seu-repositorio-aqui)**
-  *Sistema SCADA full-duplex desenvolvido em Python (Flet) rodando sobre Arch Linux, controlando firmware C++ de extrusão mecânica via bypass de rádio Bluetooth (Sockets).*
 
 ---
 
