@@ -1,5 +1,5 @@
 ### 🎓 Estudante de Engenharia de Controle e Automação
-Atualmente cursando o 4º período no **CEFET-MG**, com formação técnica prévia em **Automação Industrial** pelo **IFF**.
+Atualmente cursando o 5º período no **CEFET-MG**, com formação técnica prévia em **Automação Industrial** pelo **IFF**.
 ---
   
 ---
