@@ -15,7 +15,7 @@ Atualmente cursando o 5º período no **CEFET-MG**, com formação técnica pré
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davieasO&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davieas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davieas&layout=compact&theme=tokyonight)
 
 ---
